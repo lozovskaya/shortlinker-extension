@@ -20,12 +20,12 @@ The name can be excluded; for example, you can simply type 'go/'. In this scenar
 
 To view all your shortcuts, input: all/
 
-For adding a new shortcut, input: add/<area>/<name>?t=<target_url>
+For adding a new shortcut, input: add/\<area>/<name>?t=\<target_url\>
 
-If you don't require a name, input: add/<area>?t=<target_url>
+If you don't require a name, input: add/\<area\>?t=\<target_url\>
 
-For deleting a shortcut, input: del/<area>/<name>
+For deleting a shortcut, input: del/\<area\>/\<name>
 
-To delete a shortcut without a name, input: del/<area>
+To delete a shortcut without a name, input: del/\<area\>
 
-To delete all shortcuts with a specific area, input: del/<area>?all=true
+To delete all shortcuts with a specific area, input: del/\<area\>?all=true
